@@ -1,4 +1,4 @@
-# StickersStore
+# Stickers Store
 Sticker store built with React.js, implementing UI libraries, paypal payment processor, and consuming an API.<br><br>
 This was my first project in React.js, I learned how to build components, route views and conceive a molecular design for the application.
 <br><br>
