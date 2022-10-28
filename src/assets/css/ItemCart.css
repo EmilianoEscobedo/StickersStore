@@ -1,0 +1,39 @@
+.cart-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    align-items: center;
+}
+
+.cart-item-img {
+  height: 80px;
+  width: 80px;
+}
+
+.cart-item-delete {
+  height: 25px;
+}
+
+.cart-item-price {
+  margin: 0px;
+}
+
+.cart-txt {
+  text-align: left;
+  width: 170px;
+  border-bottom: solid 1px #333;
+  padding-bottom: 5px;
+}
+
+.cart-item-title {
+  font-size: 14px;
+  margin: 0px;
+  padding: 0px;
+  color: #333;
+}
+
+.cart-item-quantity {
+  color:#9147ff;
+  font-size: 15px;
+  font-weight: 700;
+}
